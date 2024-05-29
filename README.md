@@ -22,3 +22,5 @@ https://github.com/EmreInanc/Proje-C-Sharp-Yemek_Siparis_UYG/assets/169296203/b2
 </h4>
 
 ![VeritabaniDosyaYolu](https://github.com/EmreInanc/Proje-C-Sharp-Yemek_Siparis_UYG/assets/169296203/107a5913-5fdc-47b0-8c2e-f1b32704218f)
+  <p>(bu kısıma veritabanı dosyayolunu yazın) </p>
+proje foto klasörünü C:/ sürücüsünün içine sürükleyin(veritabanı dosyası için de mevcut)
