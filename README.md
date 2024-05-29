@@ -16,6 +16,7 @@ https://github.com/EmreInanc/Proje-C-Sharp-Yemek_Siparis_UYG/assets/169296203/b2
     bu projeyi 3 V halinde yapıcağım
     <p> 2.versiyon da yetkili kullanıcı girişi olucak kasiyer yekili kişisi bu ekrana ⬆︎...</p>
     <p> Yönetici kişisi de ürün ekliyip silebilceği alana giriş yapıcak</p>
-    <p> 3.versiyonda da ekstra log sayfası ve olursa resimleri URL ile almasını yapıcağım</p>
+    <p> 3.versiyonda da ekstra log sayfası ve olursa resimleri URL ile almasını yapıcağım
+    Şuanlık bu kadar</p>
   </p>
 </h4>
