@@ -1,0 +1,19 @@
+.hakkimizda {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.hakkimizda img {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.hakkimizda p {
+  font-size: 18px;
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto;
+}

@@ -1,0 +1,91 @@
+.car-details {
+  display: flex;
+  align-items: center;
+}
+
+.car-image {
+  margin-right: 20px;
+}
+
+.car-image img {
+  max-width: 100%;
+  height: auto;
+  animation: zoom-in 0.5s ease-in-out;
+}
+
+@keyframes zoom-in {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.araba_info {
+  flex: 1;
+}
+
+.araba_info h2 {
+  margin: 0;
+    padding: 12px;
+  font-size: 24px;
+}
+
+.araba_info ul {
+  margin: 10px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.araba_info li {
+  margin: 5px 0;
+  font-size: 18px;
+}
+
+.price {
+  font-size: 24px;
+}
+
+.buy-now {
+  text-align: right;
+  margin-top: 20px;
+}
+
+.buy-now button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.buy-now button:hover {
+  background-color: #0062cc;
+}
+#sosyal_medya{
+    height: 338px;
+}
+
+
+.arabalar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.araba {
+  margin: 20px;
+}
+
+.araba img {
+  max-width: 100%;
+}
+
+.araba-isim {
+  text-align: center;
+}
